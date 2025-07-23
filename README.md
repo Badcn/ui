@@ -1,4 +1,4 @@
-# 🧩 badcn
+# badcn
 
 A badass open-source UI component library built with TypeScript and Tailwind CSS.  
 Inspired by the best, built to be better.
