@@ -1,0 +1,30 @@
+{
+  "name": "badcn",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A badass open-source UI component library built with TypeScript and Tailwind CSS. Inspired by the best, built to be better.",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build"
+  },
+  "workspaces": [
+  "apps/website",
+  "packages/ui"
+],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badcn/ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Badcn/ui/issues"
+  },
+  "homepage": "https://github.com/Badcn/ui#readme",
+  "devDependencies": {
+    "turbo": "^2.5.5"
+  },
+
+  "packageManager": "npm@11.41.2"
+}
